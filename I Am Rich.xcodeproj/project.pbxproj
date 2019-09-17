@@ -10,9 +10,9 @@
 		AD97D1B523227F1700172365 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD97D1B423227F1700172365 /* AppDelegate.swift */; };
 		AD97D1B723227F1700172365 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD97D1B623227F1700172365 /* SceneDelegate.swift */; };
 		AD97D1B923227F1700172365 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD97D1B823227F1700172365 /* ContentView.swift */; };
-		AD97D1BB23227F1900172365 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD97D1BA23227F1900172365 /* Assets.xcassets */; };
 		AD97D1BE23227F1900172365 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD97D1BD23227F1900172365 /* Preview Assets.xcassets */; };
 		AD97D1C123227F1900172365 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD97D1BF23227F1900172365 /* LaunchScreen.storyboard */; };
+		AD97D1C9232299A400172365 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD97D1C8232299A400172365 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,10 +20,10 @@
 		AD97D1B423227F1700172365 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AD97D1B623227F1700172365 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		AD97D1B823227F1700172365 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		AD97D1BA23227F1900172365 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD97D1BD23227F1900172365 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AD97D1C023227F1900172365 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD97D1C223227F1900172365 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD97D1C8232299A400172365 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +59,8 @@
 				AD97D1B423227F1700172365 /* AppDelegate.swift */,
 				AD97D1B623227F1700172365 /* SceneDelegate.swift */,
 				AD97D1B823227F1700172365 /* ContentView.swift */,
-				AD97D1BA23227F1900172365 /* Assets.xcassets */,
 				AD97D1BF23227F1900172365 /* LaunchScreen.storyboard */,
+				AD97D1C8232299A400172365 /* Assets.xcassets */,
 				AD97D1C223227F1900172365 /* Info.plist */,
 				AD97D1BC23227F1900172365 /* Preview Content */,
 			);
@@ -134,8 +134,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				AD97D1C123227F1900172365 /* LaunchScreen.storyboard in Resources */,
+				AD97D1C9232299A400172365 /* Assets.xcassets in Resources */,
 				AD97D1BE23227F1900172365 /* Preview Assets.xcassets in Resources */,
-				AD97D1BB23227F1900172365 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
